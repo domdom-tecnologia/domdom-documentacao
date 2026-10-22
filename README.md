@@ -11,7 +11,7 @@ Presença digital, desenvolvimento web e soluções tecnológicas
 para empresas que querem ser encontradas, conquistar clientes
 e crescer no ambiente digital.
 
-[🌐 Nosso site]([https://domdomtecnologia.com](https://domdom-site-pronto.vercel.app/)) ·
+[🌐 Nosso site](https://domdom-site-pronto.vercel.app/) ·
 [📩 Entre em contato](https://domdomtecnologia.com)
 
 ![Presença Digital](https://img.shields.io/badge/Presen%C3%A7a-Digital-00C7F7?style=flat-square)
